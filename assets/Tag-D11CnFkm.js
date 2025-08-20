@@ -1,4 +1,4 @@
-import{a as ae,aA as l,e as h,R as z,d as y,f as ne,g as P,h as g,br as le,j as te,u as se,m as M,cd as ie,a8 as de,Z as he,aE as ge,k as I,n as a,aG as be,o as ve,p as _,aQ as ue,c as ke}from"./index-BVIpUo_B.js";const Ce={color:Object,type:{type:String,default:"default"},round:Boolean,size:{type:String,default:"medium"},closable:Boolean,disabled:{type:Boolean,default:void 0}},fe=ae("tag",`
+import{a as ae,aA as l,e as h,R as z,d as y,f as ne,g as P,h as g,br as le,j as te,u as se,m as M,cd as ie,a8 as de,Z as he,aE as ge,k as I,n as a,aG as be,o as ve,p as _,aQ as ue,c as ke}from"./index-DWN98R09.js";const Ce={color:Object,type:{type:String,default:"default"},round:Boolean,size:{type:String,default:"medium"},closable:Boolean,disabled:{type:Boolean,default:void 0}},fe=ae("tag",`
  --n-close-margin: var(--n-close-margin-top) var(--n-close-margin-right) var(--n-close-margin-bottom) var(--n-close-margin-left);
  white-space: nowrap;
  position: relative;

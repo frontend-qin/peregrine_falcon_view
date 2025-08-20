@@ -1,4 +1,4 @@
-import{c as q,a as I,i as J,b as X,d as w,e as N,f as E,r as Y,g as Q,h as y,u as Z,j as O,k as R,l as M,m as V,n as ee,o as te,p as oe,q as ne,w as re,s as se,t as ae,V as ie,v as le,x as de,y as ce,z as k,A as f,B as ue,C as fe,D as m,E as j,F as D,G as L,_ as B,H as ve,I as W,J as me,K,L as he,T as ge,M as _e,N as pe}from"./index-BVIpUo_B.js";import{_ as be}from"./Switch-Ap5oFOD1.js";import{i as ze,o as xe}from"./utils-6y18dk1k.js";import{t as ye}from"./Tag-BTokBqzQ.js";const Oe=q("n-avatar-group"),Re=I("avatar",`
+import{c as q,a as I,i as J,b as X,d as w,e as N,f as E,r as Y,g as Q,h as y,u as Z,j as O,k as R,l as M,m as V,n as ee,o as te,p as oe,q as ne,w as re,s as se,t as ae,V as ie,v as le,x as de,y as ce,z as k,A as f,B as ue,C as fe,D as m,E as j,F as D,G as L,_ as B,H as ve,I as W,J as me,K,L as he,T as ge,M as _e,N as pe}from"./index-DWN98R09.js";import{_ as be}from"./Switch-BBB5ksOx.js";import{i as ze,o as xe}from"./utils-sad6TNm0.js";import{t as ye}from"./Tag-D11CnFkm.js";const Oe=q("n-avatar-group"),Re=I("avatar",`
  width: var(--n-merged-size);
  height: var(--n-merged-size);
  color: #FFF;
