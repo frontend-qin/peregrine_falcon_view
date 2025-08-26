@@ -1,0 +1,1 @@
+import{_ as t}from"./index-eBcxSOmI.js";import{g as c,M as p,H as r}from"./index-D0m-mupX.js";import"./Switch-B4AFbVZ7.js";const f=c({__name:"index",props:{config:{},theme:{}},setup(e){return console.log(e),(o,m)=>{const n=t;return r(),p(n,{config:o.config,theme:o.theme},null,8,["config","theme"])}}});export{f as default};
