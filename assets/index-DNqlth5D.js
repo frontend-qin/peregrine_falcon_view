@@ -1,0 +1,1 @@
+import{_ as t}from"./theme-D0Tx5aRa.js";import{f as c,L as p,G as s}from"./index-D3EkjUs5.js";const f=c({__name:"index",props:{config:{},theme:{}},setup(e){return console.log(e),(o,m)=>{const n=t;return s(),p(n,{config:o.config,theme:o.theme},null,8,["config","theme"])}}});export{f as default};
