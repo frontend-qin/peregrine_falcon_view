@@ -1,0 +1,1 @@
+import{_ as o}from"./theme-DbCXySGY.js";import{f as t,L as c,G as _}from"./index-B3_asQ9N.js";const a=t({__name:"index",props:{config:{},theme:{}},setup(m){return(e,p)=>{const n=o;return _(),c(n,{config:e.config,theme:e.theme},null,8,["config","theme"])}}});export{a as default};
