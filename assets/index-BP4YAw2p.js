@@ -1,0 +1,1 @@
+import{_ as n}from"./EChart-Wgb9JeVd.js";import"./wordCloud-HRjBzuLh.js";import{f as t,L as m,G as p}from"./index-BtR9Uj1U.js";import"./theme-B8iMNJE1.js";const f=t({__name:"index",props:{config:{},theme:{}},setup(r){return(e,c)=>{const o=n;return p(),m(o,{config:e.config,theme:e.theme},null,8,["config","theme"])}}});export{f as default};

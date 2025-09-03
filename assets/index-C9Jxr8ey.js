@@ -1,0 +1,1 @@
+import{f as o,z as s,G as t,E as a,_ as r}from"./index-BtR9Uj1U.js";const n={class:"box"},c=["src"],i=o({__name:"index",props:{config:{},theme:{}},setup(_){return(e,d)=>(t(),s("div",n,[a("iframe",{src:e.config.options.url,ref:"iframeRef",loading:"lazy",width:"100%",height:"100%",frameborder:0},null,8,c)]))}}),p=r(i,[["__scopeId","data-v-8f11d971"]]);export{p as default};

@@ -1,0 +1,1 @@
+import{_ as n}from"./EChart-Wgb9JeVd.js";import{f as t,L as c,G as m}from"./index-BtR9Uj1U.js";import"./theme-B8iMNJE1.js";const i=t({__name:"index",props:{config:{},theme:{}},setup(p){return(e,r)=>{const o=n;return m(),c(o,{config:e.config,theme:e.theme},null,8,["config","theme"])}}});export{i as default};
